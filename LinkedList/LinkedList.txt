@@ -1,0 +1,8 @@
+linked list
+collection of nodes
+linear double and cycle
+eg. browser
+    search->wiki->article
+Self defined data type
+dynamic DS
+non contagious
